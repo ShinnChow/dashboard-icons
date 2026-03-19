@@ -40244,5 +40244,19 @@
                 "login": "silasmariusz"
             }
         }
+    },
+    "volcengine": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "cloud"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T20:18:04.402Z",
+            "author": {
+                "id": 24810096,
+                "login": "xiaoyuediandao"
+            }
+        }
     }
 }
