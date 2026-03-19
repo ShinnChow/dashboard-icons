@@ -39735,5 +39735,20 @@
                 "login": "ryo9999"
             }
         }
+    },
+    "stacks": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "automation",
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:21:46.225Z",
+            "author": {
+                "id": 2825006,
+                "login": "wishx"
+            }
+        }
     }
 }
