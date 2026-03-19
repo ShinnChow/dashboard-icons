@@ -39786,5 +39786,25 @@
         "wordmark": {
             "light": "zotero-wordmark-light"
         }
+    },
+    "flux-operator": {
+        "base": "svg",
+        "aliases": [
+            "Flux Operator"
+        ],
+        "categories": [
+            "monitoring",
+            "automation"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:21:54.522Z",
+            "author": {
+                "id": 109785648,
+                "login": "MrPondi"
+            }
+        },
+        "colors": {
+            "light": "flux-operator-light"
+        }
     }
 }
