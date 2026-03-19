@@ -39506,5 +39506,20 @@
                 "login": "StephanMeijer"
             }
         }
+    },
+    "taskwarrior": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "tools",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:21:09.365Z",
+            "author": {
+                "id": 3169264,
+                "login": "StephanMeijer"
+            }
+        }
     }
 }
