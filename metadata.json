@@ -39867,5 +39867,21 @@
                 "login": "Goreator"
             }
         }
+    },
+    "freesound": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "media",
+            "utility",
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:22:06.329Z",
+            "author": {
+                "id": 94655326,
+                "login": "E-gro"
+            }
+        }
     }
 }
