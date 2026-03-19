@@ -40014,5 +40014,20 @@
                 "login": "markrieder"
             }
         }
+    },
+    "framer": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "development",
+            "automation"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T20:17:21.404Z",
+            "author": {
+                "id": 170266286,
+                "login": "RcrSavior"
+            }
+        }
     }
 }
