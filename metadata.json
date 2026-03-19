@@ -40047,5 +40047,17 @@
                 "name": "Miguel Cabrerizo"
             }
         }
+    },
+    "cocalc": {
+        "base": "png",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-03-19T20:17:26.140Z",
+            "author": {
+                "id": 15904518,
+                "login": "pablomarusich"
+            }
+        }
     }
 }
