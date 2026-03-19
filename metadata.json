@@ -39442,5 +39442,22 @@
                 "login": "barry-luijten"
             }
         }
+    },
+    "playit-gg": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "gaming",
+            "tools",
+            "utility",
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:20:59.085Z",
+            "author": {
+                "id": 91204754,
+                "login": "ArthurBilyk02"
+            }
+        }
     }
 }
