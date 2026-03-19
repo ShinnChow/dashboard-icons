@@ -39850,5 +39850,22 @@
                 "name": "dashboardicons@sqeezer.org"
             }
         }
+    },
+    "strato": {
+        "base": "svg",
+        "aliases": [
+            "hosting"
+        ],
+        "categories": [
+            "cloud",
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:22:03.937Z",
+            "author": {
+                "id": 41544757,
+                "login": "Goreator"
+            }
+        }
     }
 }
