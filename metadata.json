@@ -39607,5 +39607,22 @@
             "light": "headplane-light",
             "dark": "headplane-dark"
         }
+    },
+    "archivedotorg": {
+        "base": "svg",
+        "aliases": [
+            "\"Archive.org\" \"archive dot org\" \"internet archive\" \"Internet Archive\""
+        ],
+        "categories": [
+            "media",
+            "database"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:21:24.034Z",
+            "author": {
+                "id": 1414333,
+                "login": "dj-3pic"
+            }
+        }
     }
 }
