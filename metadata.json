@@ -40106,5 +40106,21 @@
                 "login": "ZEUSGMJ"
             }
         }
+    },
+    "centreon": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "monitoring",
+            "tools",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T20:17:36.009Z",
+            "author": {
+                "id": 41867615,
+                "login": "NoixDel"
+            }
+        }
     }
 }
