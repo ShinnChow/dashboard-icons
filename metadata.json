@@ -39957,5 +39957,22 @@
                 "login": "lucschober"
             }
         }
+    },
+    "pepperstone": {
+        "base": "svg",
+        "aliases": [
+            "cfd",
+            "broker"
+        ],
+        "categories": [
+            "finance"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T20:17:07.806Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
