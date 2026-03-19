@@ -39585,5 +39585,27 @@
                 "login": "Ismaaa"
             }
         }
+    },
+    "headplane": {
+        "base": "svg",
+        "aliases": [
+            "Headscale UI"
+        ],
+        "categories": [
+            "tools",
+            "network",
+            "monitoring"
+        ],
+        "update": {
+            "timestamp": "2026-03-19T19:21:21.734Z",
+            "author": {
+                "id": 45513516,
+                "login": "ax-bzh"
+            }
+        },
+        "colors": {
+            "light": "headplane-light",
+            "dark": "headplane-dark"
+        }
     }
 }
