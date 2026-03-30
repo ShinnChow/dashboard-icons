@@ -40708,5 +40708,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "devuan": {
+        "base": "svg",
+        "aliases": [
+            "devuan-linux"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-03-30T13:11:47.006Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "devuan-dark"
+        }
     }
 }
