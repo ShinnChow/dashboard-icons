@@ -40444,5 +40444,21 @@
                 "login": "Will-Schr"
             }
         }
+    },
+    "rygel": {
+        "base": "svg",
+        "aliases": [
+            "media-server-rygel"
+        ],
+        "categories": [
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:11:05.010Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
