@@ -40897,5 +40897,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "pdf24": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:12:18.774Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
