@@ -30873,14 +30873,16 @@
         }
     },
     "xigmanas": {
-        "base": "png",
-        "aliases": [],
+        "base": "svg",
+        "aliases": [
+            "nas4free"
+        ],
         "categories": [],
         "update": {
-            "timestamp": "2025-01-07T17:54:03Z",
+            "timestamp": "2026-03-30T13:11:10.048Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 40307321,
+                "login": "sixsixfive"
             }
         }
     },
