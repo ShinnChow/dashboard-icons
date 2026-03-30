@@ -40661,5 +40661,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "eisfair": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:11:39.484Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
