@@ -40628,5 +40628,21 @@
             "light": "office-eu-wordmark-light",
             "dark": "office-eu-wordmark-dark"
         }
+    },
+    "eu-mail": {
+        "base": "svg",
+        "aliases": [
+            "office-eu-mail"
+        ],
+        "categories": [
+            "cloud"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:11:34.719Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
