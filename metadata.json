@@ -40753,5 +40753,21 @@
                 "login": "rubbo898"
             }
         }
+    },
+    "youtube-studio": {
+        "base": "svg",
+        "aliases": [
+            "YT Studio"
+        ],
+        "categories": [
+            "social"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:11:57.091Z",
+            "author": {
+                "id": "0o3hhh4gvcn2ydo",
+                "name": "Sterminator1211"
+            }
+        }
     }
 }
