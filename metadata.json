@@ -40644,5 +40644,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "eu-talk": {
+        "base": "svg",
+        "aliases": [
+            "office-eu-talk"
+        ],
+        "categories": [
+            "cloud",
+            "social"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:11:37.075Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
