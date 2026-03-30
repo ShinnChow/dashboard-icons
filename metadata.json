@@ -40818,5 +40818,21 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "fruux": {
+        "base": "svg",
+        "aliases": [
+            "fruux-tasks"
+        ],
+        "categories": [
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:12:06.626Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
