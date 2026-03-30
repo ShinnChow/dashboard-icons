@@ -24277,16 +24277,14 @@
         }
     },
     "koito": {
-        "base": "png",
+        "base": "svg",
         "aliases": [],
-        "categories": [
-            "Media"
-        ],
+        "categories": [],
         "update": {
-            "timestamp": "2025-06-30T19:02:06.755886",
+            "timestamp": "2026-03-30T13:11:51.972Z",
             "author": {
-                "id": 10216384,
-                "login": "memesalot"
+                "id": 35899030,
+                "login": "mikkelrask"
             }
         }
     },
