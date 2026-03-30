@@ -40834,5 +40834,21 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "zigbee": {
+        "base": "svg",
+        "aliases": [
+            "zigbee-protocol"
+        ],
+        "categories": [
+            "home-automation"
+        ],
+        "update": {
+            "timestamp": "2026-03-30T13:12:09.037Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
