@@ -41851,5 +41851,26 @@
         "wordmark": {
             "dark": "fairphone-wordmark-dark"
         }
+    },
+    "ecosia": {
+        "base": "svg",
+        "aliases": [
+            "ecosia-search"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-10T14:21:32.611Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "ecosia-light"
+        },
+        "wordmark": {
+            "light": "ecosia-wordmark-light",
+            "dark": "ecosia-wordmark-dark"
+        }
     }
 }
