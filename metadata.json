@@ -41759,5 +41759,24 @@
             "light": "prozilla-os-light",
             "dark": "prozilla-os-dark"
         }
+    },
+    "aroz-os": {
+        "base": "svg",
+        "aliases": [
+            "aroz-web-desktop"
+        ],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:21:17.765Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "aroz-os-light"
+        }
     }
 }
