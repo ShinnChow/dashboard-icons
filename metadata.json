@@ -41595,5 +41595,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "avm-powerline-546": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:47.425Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
