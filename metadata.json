@@ -41201,5 +41201,24 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "rockstor": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "media",
+            "storage"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:45.786Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "rockstor-light",
+            "dark": "rockstor-dark"
+        }
     }
 }
