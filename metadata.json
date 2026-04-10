@@ -41286,5 +41286,28 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "puter": {
+        "base": "svg",
+        "aliases": [
+            "puter-os"
+        ],
+        "categories": [
+            "storage",
+            "tools",
+            "utility",
+            "cloud"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:58.655Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "puter-light",
+            "dark": "puter-dark"
+        }
     }
 }
