@@ -2283,14 +2283,26 @@
     },
     "shelly": {
         "base": "svg",
-        "aliases": [],
-        "categories": [],
+        "aliases": [
+            "shelly-smart-home"
+        ],
+        "categories": [
+            "home-automation"
+        ],
         "update": {
-            "timestamp": "2023-04-13T13:56:18Z",
+            "timestamp": "2026-04-10T14:21:09.017Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 40307321,
+                "login": "sixsixfive"
             }
+        },
+        "colors": {
+            "light": "shelly-light",
+            "dark": "shelly-dark"
+        },
+        "wordmark": {
+            "light": "shelly-wordmark-light",
+            "dark": "shelly-wordmark-dark"
         }
     },
     "qdirstat": {
