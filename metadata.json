@@ -41831,5 +41831,25 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "fairphone": {
+        "base": "svg",
+        "aliases": [
+            "fairphone-hardware"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-10T14:21:29.769Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "fairphone-light"
+        },
+        "wordmark": {
+            "dark": "fairphone-wordmark-dark"
+        }
     }
 }
