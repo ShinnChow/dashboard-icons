@@ -41371,5 +41371,25 @@
         "colors": {
             "light": "filen-light"
         }
+    },
+    "heylogin": {
+        "base": "svg",
+        "aliases": [
+            "heylogin-password-manager"
+        ],
+        "categories": [
+            "tools",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:11.313Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "heylogin-dark"
+        }
     }
 }
