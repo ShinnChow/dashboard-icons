@@ -40955,5 +40955,24 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "sparkasse": {
+        "base": "svg",
+        "aliases": [
+            "sparkasse",
+            "sparkassengruppe",
+            "spořitelna",
+            "erste group"
+        ],
+        "categories": [
+            "finance"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:14:59.205Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
