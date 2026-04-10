@@ -41810,5 +41810,21 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "simpli": {
+        "base": "svg",
+        "aliases": [
+            "simplitv"
+        ],
+        "categories": [
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:21:24.534Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
