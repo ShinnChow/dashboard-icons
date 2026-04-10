@@ -41048,5 +41048,21 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "polaris": {
+        "base": "svg",
+        "aliases": [
+            "music streaming server"
+        ],
+        "categories": [
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:20.653Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
