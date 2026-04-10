@@ -41138,5 +41138,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "shadow": {
+        "base": "svg",
+        "aliases": [
+            "cloud-gaming-shadow"
+        ],
+        "categories": [
+            "cloud",
+            "gaming"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:35.425Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
