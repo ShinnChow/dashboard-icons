@@ -41986,5 +41986,27 @@
             "light": "lancom-wordmark-light",
             "dark": "lancom-wordmark-dark"
         }
+    },
+    "xpenology": {
+        "base": "svg",
+        "aliases": [
+            "xpenology-nas",
+            "synology-xpenology"
+        ],
+        "categories": [
+            "network",
+            "storage"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:21:54.887Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "xpenology-light",
+            "dark": "xpenology-dark"
+        }
     }
 }
