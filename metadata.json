@@ -41092,5 +41092,23 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "fhem": {
+        "base": "svg",
+        "aliases": [
+            "fehm-home-automation"
+        ],
+        "categories": [
+            "automation",
+            "home-automation",
+            "monitoring"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:28.149Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
