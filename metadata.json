@@ -41169,5 +41169,23 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "open-central-control-unit": {
+        "base": "svg",
+        "aliases": [
+            "home-automation-openccu",
+            "openccu",
+            "raspberrymatic"
+        ],
+        "categories": [
+            "home-automation"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:40.194Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
