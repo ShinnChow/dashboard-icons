@@ -41469,5 +41469,19 @@
         "colors": {
             "light": "avm-fritzbox-7490-light"
         }
+    },
+    "avm-fritzbox-5690": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:25.853Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
