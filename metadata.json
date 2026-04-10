@@ -41155,5 +41155,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "nuclino": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "development"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:37.733Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
