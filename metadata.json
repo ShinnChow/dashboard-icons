@@ -41452,5 +41452,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "avm-fritzbox-7490": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:23.547Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "avm-fritzbox-7490-light"
+        }
     }
 }
