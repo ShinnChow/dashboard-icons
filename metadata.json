@@ -41706,5 +41706,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "telekom-magenta-smarthome": {
+        "base": "svg",
+        "aliases": [
+            "magenta-smart-home",
+            "magenta-smart-home-device"
+        ],
+        "categories": [
+            "home-automation"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:21:05.490Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
