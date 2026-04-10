@@ -41497,5 +41497,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "avm-fritzbox-4060": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:30.787Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
