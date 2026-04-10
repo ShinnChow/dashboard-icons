@@ -41424,5 +41424,19 @@
         "colors": {
             "dark": "gridscale-dark"
         }
+    },
+    "avm-fritzbox-7590oem": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:18.532Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
