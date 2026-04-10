@@ -41609,5 +41609,24 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "avm-fritzbox-7590real": {
+        "base": "svg",
+        "aliases": [
+            "avm-fritzbox-7590"
+        ],
+        "categories": [
+            "network"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:50.101Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "avm-fritzbox-7590real-light"
+        }
     }
 }
