@@ -41896,5 +41896,20 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "volla": {
+        "base": "svg",
+        "aliases": [
+            "volla-device",
+            "volla-os"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-10T14:21:40.498Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
