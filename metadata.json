@@ -41034,5 +41034,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "mapcomplete": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:18.130Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
