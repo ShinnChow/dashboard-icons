@@ -41405,5 +41405,24 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "gridscale": {
+        "base": "svg",
+        "aliases": [
+            "gridscale-cloud"
+        ],
+        "categories": [
+            "cloud"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:20:16.345Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "gridscale-dark"
+        }
     }
 }
