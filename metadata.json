@@ -41187,5 +41187,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "f4map": {
+        "base": "svg",
+        "aliases": [
+            "f4map-maps"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-10T14:19:42.643Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
