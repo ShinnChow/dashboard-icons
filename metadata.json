@@ -41253,5 +41253,22 @@
         "colors": {
             "dark": "graphite-dark"
         }
+    },
+    "svgedit": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:19:53.445Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "svgedit-dark"
+        }
     }
 }
