@@ -40974,5 +40974,23 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "apache-guacamole": {
+        "base": "svg",
+        "aliases": [
+            "Guacamole"
+        ],
+        "categories": [
+            "development",
+            "tools",
+            "monitoring"
+        ],
+        "update": {
+            "timestamp": "2026-04-10T14:16:57.736Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
