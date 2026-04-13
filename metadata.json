@@ -42006,5 +42006,21 @@
             "light": "xpenology-light",
             "dark": "xpenology-dark"
         }
+    },
+    "dynacat": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "tools",
+            "media",
+            "monitoring"
+        ],
+        "update": {
+            "timestamp": "2026-04-13T12:21:29.132Z",
+            "author": {
+                "id": "nmggx7aqg2ynzlk",
+                "name": "Panonim"
+            }
+        }
     }
 }
