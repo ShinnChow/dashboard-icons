@@ -42073,5 +42073,22 @@
                 "login": "LeonardoLeite"
             }
         }
+    },
+    "freecad": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-04-13T12:21:44.214Z",
+            "author": {
+                "id": 118373947,
+                "login": "juanj48"
+            }
+        },
+        "colors": {
+            "light": "freecad-light"
+        }
     }
 }
