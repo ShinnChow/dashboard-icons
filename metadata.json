@@ -42038,5 +42038,24 @@
                 "login": "LeonardoLeite"
             }
         }
+    },
+    "beekeeper-studio": {
+        "base": "png",
+        "aliases": [
+            "Beekeeper Studio",
+            "Beekeeper"
+        ],
+        "categories": [
+            "database",
+            "development",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-04-13T12:21:34.166Z",
+            "author": {
+                "id": 1805895,
+                "login": "LeonardoLeite"
+            }
+        }
     }
 }
