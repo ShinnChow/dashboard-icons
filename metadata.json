@@ -31564,17 +31564,19 @@
     "watcharr": {
         "base": "svg",
         "aliases": [],
-        "categories": [],
+        "categories": [
+            "entertainment",
+            "media"
+        ],
         "update": {
-            "timestamp": "2024-10-20T17:24:03Z",
+            "timestamp": "2026-04-13T12:21:38.879Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 87156183,
+                "login": "fernandeusto"
             }
         },
         "colors": {
-            "dark": "watcharr",
-            "light": "watcharr-light"
+            "dark": "watcharr-dark"
         }
     },
     "znc": {
