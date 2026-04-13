@@ -10685,19 +10685,16 @@
         }
     },
     "baikal": {
-        "base": "png",
-        "aliases": [
-            "CalDAV Server"
-        ],
+        "base": "svg",
+        "aliases": [],
         "categories": [
-            "Server-Panels",
-            "File-Sharing-&-Sync"
+            "utility"
         ],
         "update": {
-            "timestamp": "2025-01-07T17:54:03Z",
+            "timestamp": "2026-04-13T12:21:41.505Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 87156183,
+                "login": "fernandeusto"
             }
         }
     },
