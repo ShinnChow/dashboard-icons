@@ -42022,5 +42022,21 @@
                 "name": "Panonim"
             }
         }
+    },
+    "bruno": {
+        "base": "png",
+        "aliases": [],
+        "categories": [
+            "database",
+            "development",
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-04-13T12:21:31.854Z",
+            "author": {
+                "id": 1805895,
+                "login": "LeonardoLeite"
+            }
+        }
     }
 }
