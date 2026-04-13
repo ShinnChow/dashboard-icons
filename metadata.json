@@ -42057,5 +42057,22 @@
                 "login": "LeonardoLeite"
             }
         }
+    },
+    "beeper": {
+        "base": "png",
+        "aliases": [
+            "Beeper",
+            "Messaging App"
+        ],
+        "categories": [
+            "social"
+        ],
+        "update": {
+            "timestamp": "2026-04-13T12:21:36.489Z",
+            "author": {
+                "id": 1805895,
+                "login": "LeonardoLeite"
+            }
+        }
     }
 }
