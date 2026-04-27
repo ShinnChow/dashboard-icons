@@ -42133,5 +42133,23 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "sailfishos": {
+        "base": "svg",
+        "aliases": [
+            "sailfish",
+            "sailfish-os"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:29:19.683Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "sailfishos-dark"
+        }
     }
 }
