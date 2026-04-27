@@ -42298,5 +42298,17 @@
                 "login": "spitivalleyt3-glitch"
             }
         }
+    },
+    "tricentis-tosca": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:33:18.352Z",
+            "author": {
+                "id": 277670796,
+                "login": "spitivalleyt3-glitch"
+            }
+        }
     }
 }
