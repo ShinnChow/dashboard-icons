@@ -42471,5 +42471,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "polarisoffice": {
+        "base": "svg",
+        "aliases": [
+            "polaris-office"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:20.185Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
