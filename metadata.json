@@ -18851,18 +18851,20 @@
     },
     "immich-frame": {
         "base": "svg",
-        "aliases": [],
-        "categories": [],
+        "aliases": [
+            "ImmichFrame",
+            "Immich Frame"
+        ],
+        "categories": [
+            "media",
+            "entertainment"
+        ],
         "update": {
-            "timestamp": "2024-10-20T17:24:03Z",
+            "timestamp": "2026-04-27T14:29:22.009Z",
             "author": {
-                "id": 71191962,
-                "name": "walkxcode"
+                "id": 17313367,
+                "login": "JW-CH"
             }
-        },
-        "colors": {
-            "dark": "immich-frame",
-            "light": "immich-frame-light"
         }
     },
     "flame": {
