@@ -42236,5 +42236,27 @@
                 "login": "ITGenConnect"
             }
         }
+    },
+    "rapid7": {
+        "base": "svg",
+        "aliases": [
+            "Rapid 7",
+            "rapid7",
+            "insight vm"
+        ],
+        "categories": [
+            "security"
+        ],
+        "update": {
+            "timestamp": "2026-04-27T14:33:06.215Z",
+            "author": {
+                "id": 163436602,
+                "login": "agoettl"
+            }
+        },
+        "colors": {
+            "light": "rapid7-light",
+            "dark": "rapid7-dark"
+        }
     }
 }
