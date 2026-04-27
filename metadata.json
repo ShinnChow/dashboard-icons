@@ -42528,5 +42528,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "falkon-breeze": {
+        "base": "svg",
+        "aliases": [
+            "falkon-browser"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:31.724Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
