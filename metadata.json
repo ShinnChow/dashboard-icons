@@ -42438,5 +42438,22 @@
         "colors": {
             "dark": "libreoffice-colibre-graphic-dark"
         }
+    },
+    "libreoffice-colibre-text": {
+        "base": "svg",
+        "aliases": [
+            "odt"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:14.502Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "libreoffice-colibre-text-dark"
+        }
     }
 }
