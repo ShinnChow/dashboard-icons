@@ -42542,5 +42542,29 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "ctrader": {
+        "base": "svg",
+        "aliases": [
+            "ctrader-trading-platform"
+        ],
+        "categories": [
+            "finance"
+        ],
+        "update": {
+            "timestamp": "2026-04-27T14:34:36.432Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "light": "ctrader-light",
+            "dark": "ctrader-dark"
+        },
+        "wordmark": {
+            "light": "ctrader-wordmark-light",
+            "dark": "ctrader-wordmark-dark"
+        }
     }
 }
