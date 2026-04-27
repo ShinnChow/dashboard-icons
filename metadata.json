@@ -42626,5 +42626,30 @@
                 "login": "ChrisA95G"
             }
         }
+    },
+    "kafka": {
+        "base": "svg",
+        "aliases": [
+            "apache-kafka"
+        ],
+        "categories": [
+            "storage",
+            "tools"
+        ],
+        "update": {
+            "timestamp": "2026-04-27T14:34:52.276Z",
+            "author": {
+                "id": 4228134,
+                "login": "barry-luijten"
+            }
+        },
+        "colors": {
+            "light": "kafka-light",
+            "dark": "kafka-dark"
+        },
+        "wordmark": {
+            "light": "kafka-wordmark-light",
+            "dark": "kafka-wordmark-dark"
+        }
     }
 }
