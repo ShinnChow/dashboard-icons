@@ -42595,5 +42595,22 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "calyxos": {
+        "base": "svg",
+        "aliases": [
+            "calyx-os"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:45.343Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        },
+        "colors": {
+            "dark": "calyxos-dark"
+        }
     }
 }
