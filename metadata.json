@@ -42513,5 +42513,20 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "softmakerfreeoffice": {
+        "base": "svg",
+        "aliases": [
+            "softmaker-freeoffice",
+            "freeoffice"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:29.063Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
