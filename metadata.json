@@ -42499,5 +42499,19 @@
                 "login": "sixsixfive"
             }
         }
+    },
+    "softmakeroffice": {
+        "base": "svg",
+        "aliases": [
+            "softmaker-office"
+        ],
+        "categories": [],
+        "update": {
+            "timestamp": "2026-04-27T14:34:26.490Z",
+            "author": {
+                "id": 40307321,
+                "login": "sixsixfive"
+            }
+        }
     }
 }
