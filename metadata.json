@@ -42104,5 +42104,19 @@
                 "login": "dkam"
             }
         }
+    },
+    "google-find": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "utility"
+        ],
+        "update": {
+            "timestamp": "2026-04-27T14:29:13.630Z",
+            "author": {
+                "id": 33619177,
+                "login": "EddyMercier"
+            }
+        }
     }
 }
