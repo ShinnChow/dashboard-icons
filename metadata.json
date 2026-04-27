@@ -42183,5 +42183,20 @@
                 "name": "showing265"
             }
         }
+    },
+    "milinote": {
+        "base": "svg",
+        "aliases": [],
+        "categories": [
+            "development",
+            "media"
+        ],
+        "update": {
+            "timestamp": "2026-04-27T14:29:29.626Z",
+            "author": {
+                "id": 64378901,
+                "login": "Veilios"
+            }
+        }
     }
 }
